@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: black;
+  padding: 3rem;
+}
+nav ul {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(60, 31, 140);
+}
+nav li {
+  background-color: rgb(48, 144, 19);
+  list-style: none;
+}
+nav li a {
+  text-decoration: none;
+  color: white;
+  padding: 1rem;
+}/*# sourceMappingURL=style.css.map */
